@@ -1,0 +1,8 @@
+{
+    "name": "cash-app-commerce/afterpay-for-adobe-commerce",
+    "version": "5.2.2-rc.3",
+    "type": "metapackage",
+    "require": {
+        "afterpay-global/module-afterpay": "5.2.2"
+    }
+}
